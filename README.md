@@ -129,3 +129,5 @@ Your volume pgdata would be located at ```/var/lib/docker/volumes/pgdata/_data``
 This setup creates a full-stack application where the frontend (nextapp) interacts with the backend (flaskapp), and the backend communicates with the PostgreSQL database (db). All containers are configured to use the default Docker network for inter-container communication
 
 Below is how the application will look like:-
+
+<img width="451" alt="Screenshot 2024-09-15 at 11 58 05 PM" src="https://github.com/user-attachments/assets/a079cbf8-ef82-46d9-81d7-9239412ca24a">
